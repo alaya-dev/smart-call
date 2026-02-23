@@ -1,0 +1,4 @@
+package tn.esprit.youssefalaya_4arctic10.services;
+
+public interface IAISystemsServices {
+}
